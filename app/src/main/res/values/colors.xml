@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+
+    <color name="colorPrimary">#3F51B5</color>
+
+    <color name="colorPrimaryDark">#303F9F</color>
+
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- 1lg Gradient color -->
+    <color name="colorLightBlue">#55E0FD</color>
+    <color name="colorDarkBlue">#08275E</color>
+    <!-- ./ 1lg Gradient color -->
+
+
+    <!-- 2leu Gradient color -->
+    <color name="colorYellow">#B0CB48</color>
+    <color name="colorLightGreen">#75B54B</color>
+    <color name="colorGreen">#3EA14E</color>
+    <color name="colorGreen_2">#008A51</color>
+    <color name="colorAqua">#136F9F</color>
+    <color name="colorPurple">#5751AC</color>
+    <!-- ./ 2leu Gradient color -->
+
+
+    <!-- 3meu Gradient color -->
+    <color name="colorRed">#F4553F</color>
+    <color name="colorRed_2">#D0C100</color>
+    <!-- ./ 3meu Gradient color -->
+
+
+    <!-- 4mac Gradient color -->
+    <color name="colorWhite">#DEE5F2</color>
+    <color name="colorBlue_1">#5C98FF</color>
+    <color name="colorBlue_2">#094D9E</color>
+    <color name="colorBlue_3">#004594</color>
+    <!-- ./ 4mac Gradient color -->
+
+
+    <!-- 5cla Gradient color -->
+    <color name="colorGreenest">#2A8017</color>
+    <color name="colorGreenest_2">#2F8A59</color>
+    <color name="colorAqua_1">#389AC1</color>
+    <color name="colorAqua_2">#3A86BE</color>
+    <color name="colorBlue">#3C72BB</color>
+    <!-- ./ 5cla Gradient color -->
+
+
+</resources>
