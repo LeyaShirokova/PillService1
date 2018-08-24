@@ -25,4 +25,23 @@ dependencies {
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'com.android.support.test:runner:1.0.2'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
+
+    //Moxy
+    implementation 'com.arello-mobile:moxy:1.5.3'
+    annotationProcessor 'com.arello-mobile:moxy-compiler:1.5.3'
+    implementation 'com.arello-mobile:moxy-android:1.5.3'
+    implementation 'com.arello-mobile:moxy-app-compat:1.5.3'
+
+    //Dagger
+    implementation 'com.google.dagger:dagger:2.14.1'
+    annotationProcessor 'com.google.dagger:dagger-compiler:2.14.1'
+
+    //Retrofit2 + Adapter-RxJava2
+    implementation 'com.squareup.retrofit2:retrofit:2.3.0'
+    implementation 'com.squareup.retrofit2:converter-gson:2.3.0'
+    implementation 'com.squareup.retrofit2:adapter-rxjava2:2.3.0'
+
+    //Gson
+    implementation 'com.google.code.gson:gson:2.8.2'
+
 }

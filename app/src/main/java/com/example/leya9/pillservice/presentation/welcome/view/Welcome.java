@@ -1,7 +1,9 @@
-package com.example.leya9.pillservice;
+package com.example.leya9.pillservice.presentation.welcome.view;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.example.leya9.pillservice.R;
 
 public class Welcome extends AppCompatActivity {
 
