@@ -9,7 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_pillservice_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat.DayNight.NoActionBar">
-        <activity android:name=".presentation.welcome.view.Welcome">
+        <activity android:name=".Welcome">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

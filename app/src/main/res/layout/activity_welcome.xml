@@ -5,8 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/background_login"
-    tools:context=".presentation.welcome.view.Welcome">
-
+    tools:context=".Welcome">
 
     <ImageView
         android:id="@+id/lgPill"
@@ -24,5 +23,6 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="30dp"
-        app:srcCompat="@drawable/logtitle" />
+        app:srcCompat="@drawable/title" />
+
 </RelativeLayout>
