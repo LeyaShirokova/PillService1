@@ -1,3 +1,45 @@
 <resources>
-    <string name="app_name">PillService</string>
+    <string name="app_name" translatable="false">PillService</string>
+    <string name="welcome">Welcome</string>
+    <string name="welcome_txt">Thanks to our application, you no longer need
+        to wait in line and waste time. We deliver the medicine at any time
+        and place in a shortest while.</string>
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+    <string name="choose_organization">Please choose your health care
+        organization</string>
+    <string name="login">Login</string>
+    <string name="registration">Registration</string>
+    <string name="passport_id">Your passport number</string>
+    <string name="password">Password</string>
+    <string name="family_doctor">Family doctor</string>
+    <string name="test_result">Test result</string>
+    <string name="recipes">Recipes</string>
+    <string name="form_17">Form 17</string>
+    <string name="medicaments">Medicaments</string>
+    <string name="medicament_info">Full information about the %1$s</string>
+    <string name="list_medicine_without_recipe">List of medecine without
+        a recipe</string>
+    <string name="write_address">Please write your address</string>
+    <string name="my_home">My home</string>
+    <string name="city">City</string>
+    <string name="street">Street</string>
+    <string name="house">House</string>
+    <string name="phone">Phone</string>
+    <string name="payment_amount">Payment amount</string>
+    <string name="edit">Edit</string>
+    <string name="full_name">Full name</string>
+    <string name="card_number">Card number</string>
+    <string name="security_code">Security code</string>
+    <string name="expiry_date">Expiry date</string>
+    <string name="pay">Pay</string>
+    <string name="order_prepared">Your order is being prepared</string>
+    <string name="order_number">Order number</string>
+    <string name="courier_delliver">Courier will delliver your order in the duration of %1$d %2$s</string>
+    <string name="courier_reach_number">Courier will reach you by this number: %1$s</string>
+    <string name="phone_feedback">Phone for feedback</string>
+    <string name="check_confirm">Please check and confirm the order</string>
+    <string name="thank_for_using">Thank you for using our application</string>
+    <string name="order_sent">The order has been sent</string>
 </resources>
+

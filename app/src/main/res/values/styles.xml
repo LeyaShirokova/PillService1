@@ -8,4 +8,12 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="PillService" parent="AppTheme">
+
+        <item name="android:textColor">@color/colorWhite</item>
+        <item name="android:windowBackground">@drawable/background_login</item>
+        <item name="android:buttonStyle">@style/btnStyle</item>
+
+    </style>
+
 </resources>

@@ -45,6 +45,8 @@
     <color name="colorAqua_2">#3A86BE</color>
     <color name="colorBlue">#3C72BB</color>
     <!-- ./ 5cla Gradient color -->
+    <color name="black">#030101</color>
+    <color name="transparent">#0000</color>
 
 
 </resources>

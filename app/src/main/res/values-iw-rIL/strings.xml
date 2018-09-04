@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome">ברוכים הבאים</string>
+    <string name="welcome_txt">הודות ליישום שלנו, אתה לא תצטרך לחכות בתור ולבזבז את זמנך. אנו מספקים תרופות בכל עת ומקום בזמן הקצר ביותר.</string>
+    <string name="next">המשך</string>
+    <string name="choose_organization">בחר את קרן ביטוח הבריאות שאליה את/ה שייך</string>
+    <string name="login">כניסה</string>
+    <string name="password">סיסמה</string>
+    <string name="back">חזור</string>
+    <string name="passport_id">מספר זהות</string>
+    <string name="registration">הרשמה</string>
+    <string name="family_doctor">רופא משפחה</string>
+    <string name="test_result">תוצאות בדיקות</string>
+    <string name="recipes">מִרשָׁם</string>
+    <string name="form_17">טופס 17</string>
+    <string name="medicaments">תרופות</string>
+    <string name="medicament_info">מידע מלא על ה- \"שם התרופה\"</string>
+    <string name="list_medicine_without_recipe">רשימת תרופות ללא מרשם רפואי</string>
+    <string name="write_address">הקלד כתובת</string>
+    <string name="my_home">דף הבית</string>
+    <string name="city">עיר</string>
+    <string name="street">רחוב</string>
+    <string name="house">מס בית</string>
+    <string name="phone">מס טלפון</string>
+    <string name="full_name">שם מלא</string>
+    <string name="card_number">מס כרטיס אשראי</string>
+    <string name="security_code">קוד אבטחה</string>
+    <string name="expiry_date">תאריך תפוגה</string>
+    <string name="pay">תשלום</string>
+    <string name="order_prepared">ההזמנה שלך מתבצעת</string>
+    <string name="order_number">מס הזמנה</string>
+    <string name="courier_delliver">השליח ימסור את הזמנתך במשך שעתיים</string>
+    <string name="courier_reach_number">השליח יגיע אליך אם מספר מזה:..................</string>
+    <string name="phone_feedback">טלפון לתגובות (פידבק)</string>
+    <string name="check_confirm">תבדקו ואישרו את ההזמנה</string>
+    <string name="thank_for_using">תודה שהשתמשתם בישום שלנו</string>
+    <string name="order_sent">ההזמנה נשלח</string>
+    <string name="payment_amount">לשנות</string>
+    <string name="edit">סה\"כ</string>
+</resources>
