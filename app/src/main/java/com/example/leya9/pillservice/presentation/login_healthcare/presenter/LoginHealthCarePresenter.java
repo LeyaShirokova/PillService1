@@ -1,4 +1,7 @@
 package com.example.leya9.pillservice.presentation.login_healthcare.presenter;
 
-public class LoginHealthCarePresenter {
+import com.arellomobile.mvp.MvpPresenter;
+import com.example.leya9.pillservice.presentation.login_healthcare.view.ILoginHealthCareView;
+
+public class LoginHealthCarePresenter extends MvpPresenter<ILoginHealthCareView> implements ILoginHealthCarePresenter {
 }

@@ -1,4 +1,6 @@
 package com.example.leya9.pillservice.presentation.login_app.view;
 
-public interface ILoginAppView {
+import com.arellomobile.mvp.MvpView;
+
+public interface ILoginAppView extends MvpView {
 }
