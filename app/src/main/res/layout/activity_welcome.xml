@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/background_login"
-    tools:context=".Welcome">
+    tools:context=".presentation.Welcome">
 
     <ImageView
         android:id="@+id/lgPill"
@@ -24,5 +24,14 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="30dp"
         app:srcCompat="@drawable/title" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="201dp"
+        android:text="Button" />
 
 </RelativeLayout>

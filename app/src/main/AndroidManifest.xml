@@ -8,8 +8,8 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_pillservice_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.AppCompat.DayNight.NoActionBar">
-        <activity android:name=".Welcome">
+        android:theme="@style/PillService">
+        <activity android:name=".presentation.Welcome">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
